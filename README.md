@@ -23,8 +23,8 @@ $ pip install futures
 
 $ pkg install git
 
-$ git clone https://github.com/sptty-chan/snapgo
+$ git clone https://github.com/Yanzyaha/metu
 # cara menjalankan
-$ cd snapgo
+$ cd metu
 
 $ python snapgo.py
